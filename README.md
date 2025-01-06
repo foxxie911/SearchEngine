@@ -4,7 +4,7 @@ In this project, I have implemented a basic search engine using dummy site data.
 
 ### Language & Library
 
-This project is implemented in Python. It also uses multiple Python library to ease the implementing process. These libraries are:
+This project is implemented in Python. It also uses multiple Python libraries to ease the implementing process. These libraries are:
 
 - Pandas
 - NetworkX
